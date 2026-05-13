@@ -70,17 +70,17 @@ The project follows layered architecture using:
 
 #  Tech Stack
 
-| Technology      | Used |
-| --------------- |  |
-| Java            | 21+ |
-| Spring Boot     | 3.x |
-| Spring Data JPA |  |
-| Hibernate       |  |
-| H2 Database     |  |
-| Maven           |  |
-| Swagger/OpenAPI |  |
-| JUnit 5         |  |
-| Mockito         |  |
+| Technology      | Used   |
+| --------------- |--------|
+| Java            | 21+    |
+| Spring Boot     | 3.x    |
+| Spring Data JPA |
+| Hibernate       |
+| H2 Database     |
+| Maven           |
+| Swagger/OpenAPI |
+| JUnit 5         |
+| Mockito         |
 
 ---
 
