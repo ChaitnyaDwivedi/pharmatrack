@@ -232,12 +232,6 @@ This project uses **JaCoCo** for measuring unit and integration test coverage.
 - MockMvc
 - JaCoCo
 
-### Generate Coverage Report
-
-Run the following command:
-
-```bash
-mvn clean test
 
 # 👨‍💻 Developed By
 
