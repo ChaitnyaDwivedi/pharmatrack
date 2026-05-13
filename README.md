@@ -71,16 +71,16 @@ The project follows layered architecture using:
 #  Tech Stack
 
 | Technology      | Used |
-| --------------- | ---- |
-| Java            | 21+  |
-| Spring Boot     | 3.x  |
-| Spring Data JPA | ✅    |
-| Hibernate       | ✅    |
-| H2 Database     | ✅    |
-| Maven           | ✅    |
-| Swagger/OpenAPI | ✅    |
-| JUnit 5         | ✅    |
-| Mockito         | ✅    |
+| --------------- |  |
+| Java            | 21+ |
+| Spring Boot     | 3.x |
+| Spring Data JPA |  |
+| Hibernate       |  |
+| H2 Database     |  |
+| Maven           |  |
+| Swagger/OpenAPI |  |
+| JUnit 5         |  |
+| Mockito         |  |
 
 ---
 
@@ -101,7 +101,7 @@ src/main/java/com/pharmatrack/pharmatrack
 
 ---
 
-# ▶️ How To Run
+# How To Run
 
 ##  Clone Repository
 
@@ -181,16 +181,16 @@ Using:
 
 # API Modules
 
-| Module           | Status |
-| ---------------- | ------ |
-| Medicine APIs    | ✅      |
-| Supplier APIs    | ✅      |
-| Transaction APIs | ✅      |
-| Dashboard APIs   | ✅      |
+| Module           |
+| ---------------- |
+| Medicine APIs    |
+| Supplier APIs    |
+| Transaction APIs |
+| Dashboard APIs   |
 
 ---
 
-# 📈 Key Functionalities
+# Key Functionalities
 
 * Inventory management
 * Medicine stock tracking
@@ -233,6 +233,6 @@ This project uses **JaCoCo** for measuring unit and integration test coverage.
 - JaCoCo
 
 
-# 👨‍💻 Developed By
+#  Developed By
 
 Chaitnya Dwivedi
