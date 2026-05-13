@@ -203,6 +203,42 @@ Using:
 
 ---
 
+---
+
+## JaCoCo Code Coverage
+
+This project uses **JaCoCo** for measuring unit and integration test coverage.
+
+### Coverage Achieved
+
+| Metric | Coverage |
+|--------|----------|
+| Instruction Coverage | 80% |
+| Branch Coverage | 77% |
+
+### Tested Components
+
+- Service Layer
+- Controller Layer
+- Repository Layer
+- Global Exception Handler
+- Validation & Negative Test Cases
+
+### Tools Used
+
+- JUnit 5
+- Mockito
+- Spring Boot Test
+- MockMvc
+- JaCoCo
+
+### Generate Coverage Report
+
+Run the following command:
+
+```bash
+mvn clean test
+
 # 👨‍💻 Developed By
 
 Chaitnya Dwivedi
